@@ -8,4 +8,4 @@ permalink: /terms/
 
 *These Terms of Service are currently being finalised. Please check back shortly.*
 
-For questions contact: [your email]
+For questions contact: ofer.eisenberg@gmail.com 
